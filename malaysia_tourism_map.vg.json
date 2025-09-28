@@ -59,23 +59,7 @@
           {"field": "Total_Domestic_Visitors_000", "title": "Visitors ('000)"}
         ]
       }
-    },
-    {
-       "data": {
-        "url": "https://raw.githubusercontent.com/HONG1D/FIT3179/8148446d0e3b5b1e5de94373ccfcdbd57d6c19f5/combined_state_info_location.csv"
-      },
-      "mark": {
-        "type": "text",
-        "dx": -30,
-        "fontSize": 12,
-        "fontStyle": "italic"
-      },
-      "encoding": {
-        "longitude": {"field": "Longtitude", "type": "quantitative"},
-        "latitude": {"field": "Latitude", "type": "quantitative"},
-        "text": {"field": "State", "type": "nominal"}
-      }
-
     }
   ]
 }
+
